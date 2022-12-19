@@ -1,7 +1,7 @@
 # JS 2048 game
 
 ## Overview
- This is a web [2048 game](https://elinabahirova.github.io/js_2048-game/).
+ This is a web [2048 game](https://elinabahirova.github.io/js_2048-game/) implemented according [this reference](https://play2048.co/).
  
  ## 🕹️ Gameplay
  1. Press 'Start' to start the game.
